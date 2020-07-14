@@ -1,1 +1,1 @@
-# nordhat_2
+# nordhat V2
